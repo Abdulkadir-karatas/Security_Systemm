@@ -5,14 +5,14 @@ Ortamda haraket ve kızıl ötesi sensörler senkronize bir şekilde çalışara
 
 PROJE GEREKSİNİMLERİ:
 
--Haraket sensörü (PIR)
+- Haraket sensörü (PIR)
 
--Kızıl ötesi sensör (IR)
+- Kızıl ötesi sensör (IR)
 
--ESP8266 dev. kartı
+- ESP8266 dev. kartı
 
--Bredboard 
+- Bredboard 
 
--iletken kablolar
+- İletken kablolar
 
--güç ünitesi (9v pil ve pil yuvası)
+- Güç ünitesi (9v pil ve pil yuvası)
