@@ -16,3 +16,5 @@ PROJE GEREKSİNİMLERİ:
 - İletken kablolar
 
 - Güç ünitesi (9v pil ve pil yuvası)
+
+- Akıllı telefon (BLYNK mobil uygulaması için)
